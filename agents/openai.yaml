@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度访谈与人生记录"
+  short_description: "温和的一问一答，保留原始问答并经本人确认后整理主题记录与人生编年史"
+  default_prompt: "使用 $life-story-interview，温和地一次问一个问题，帮我记录想聊的话题或人生经历，聊完一段再确认信息。"
